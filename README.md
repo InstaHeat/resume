@@ -1,3 +1,3 @@
 # resume
 
-my resume [Markdown](https://instaheat.github.io/resume/ "Click me")
+my resume [here](https://instaheat.github.io/resume/ "Click me")
